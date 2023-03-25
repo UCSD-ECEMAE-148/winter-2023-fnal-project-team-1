@@ -1,7 +1,8 @@
+# UCSD ECE MAE 148 - Team 1
+#
+# This is the main driver file for running the program. It instantiates the car object
+# which contains code for detecting objects/color and reacting to it. 
 import car
-import car2
-import car2_old
 
-# Mario = car.Car("DEFAULT",0, "Mario")
-Mario = car2_old.Car("DEFAULT",0, "Mario")
+Mario = car.Car("DEFAULT",0, "Mario")
 Mario.run()

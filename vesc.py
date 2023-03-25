@@ -1,3 +1,6 @@
+# Contains functions for defining VESC class object.
+# Obtained from : https://drive.google.com/drive/folders/1SBzChXK2ebzPHgZBP_AIhVXJOekVc0r3
+
 import time
 
 import donkeycar as dk
