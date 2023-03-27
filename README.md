@@ -86,12 +86,12 @@ Prefabricated parts of the car were given to us, but parts like the base plate, 
 
 | Top Camera Mount           |  Bottom Camera Mount | LIDAR Mount |
 :-------------------------:|:-------------------------:|:-------------------------:
-[<img src="images\Top_camera_mount.PNG">](images\Top_camera_mount.PNG)  |  [<img src="images\Bottom_camera_mount.PNG">](images\Bottom_camera_mount.PNG) | [<img src="images\LIDAR_Mount.PNG">](images\LIDAR_Mount.PNG)
+[<img src="images\Top_camera_mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/Top_camera_mount.PNG)  |  [<img src="images\Bottom_camera_mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/Bottom_camera_mount.PNG) | [<img src="images\LIDAR_Mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/LIDAR_Mount.PNG)
 
 
 Camera Mount (Physical)           |  LIDAR Mount (Physical)
 :-------------------------:|:-------------------------:
-[<img src="images\20230324_163531.jpg" width = "300" height="500">](images\20230324_163531.jpg)  |  [<img src="images\20230324_163548.jpg" width = "300" height="500">](images\20230324_163548.jpg)|
+[<img src="images\20230324_163531.jpg" width = "300" height="500">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/20230324_163531.jpg)  |  [<img src="images\20230324_163548.jpg" width = "300" height="500">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/20230324_163548.jpg)|
 
 #### Electronic Hardware
 Our team used only the electronic components given to us. In particular, we focused primarily on the OAK-D camera, Jetson NANO and the GNSS board (only used for the 3 GPS Autonomous Laps). When assembling the circuit, we used the following circuit diagram (given by the TAs of the class):
