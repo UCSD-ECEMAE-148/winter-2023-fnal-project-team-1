@@ -29,6 +29,7 @@ Team 1 Winter 2023
       <ul>
         <li><a href="#mechanical-design">Mechanical Design</a></li>
         <li><a href="#electronic-hardware">Electronic Hardware</a></li>
+        <li><a href="autonomous-laps">Autonomous Laps</a></li>
       </ul>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#contact">Contact</a></li>
