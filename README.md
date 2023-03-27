@@ -109,6 +109,7 @@ Below is a youtube playlist of the car completing 3 autonomous laps using the Do
 * [Traffic light example Git](https://github.com/HevLfreis/TrafficLight-Detector/blob/master/src/main.py)
 * [DepthAI Git](https://github.com/luxonis/depthai)
 * [VESC Object Drive Folder](https://drive.google.com/drive/folders/1SBzChXK2ebzPHgZBP_AIhVXJOekVc0r3)
+* [DonkeyCar Framework](https://docs.donkeycar.com/guide/host_pc/setup_windows/)
 
 *Special thanks to Professor Jack Silberman, and TAs Kishore Nukala and Moises Lopez (WI23)*
 
