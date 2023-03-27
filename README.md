@@ -25,6 +25,10 @@ Team 1 Winter 2023
       <a href="#team-members">Team Members</a>
     </li>
     <li><a href="#final-project">Final Project</a></li>
+      <ul>
+        <li><a href="#primary-goals">Primary goals</a></li>
+        <li><a href="#final-project-documentation">Final Project Documentation</a></li>
+      </ul>
     <li><a href="#early-quarter">Early Quarter</a></li>
       <ul>
         <li><a href="#mechanical-design">Mechanical Design</a></li>
@@ -58,7 +62,7 @@ Team 1 Winter 2023
 
 The goal of this project was a three-fold application of computer vision. Using the OAKD Lite camera, we aimed to recognize stoplights, traffic signs and people and use those visual inputs to change the state of our car.
 
-### Primary goals:
+### Primary Goals:
 1) Red, yellow and green stoplights would make the car stop, slow down, and go
 2) (Stretch goal) Stop signs, speed limit signs, and right turn signs would be recognized and make the car perform their designated function
 3) Individuals could be recognized and followed by the car with dynamic throttle and steering, while the car simultaneously recognized and performed stoplight and streetsign functions
@@ -77,6 +81,13 @@ The car was able to identify person objects using the OAKD camera. By doing so, 
 Our team was able to obtain obtain the [Mapillary Dataset](https://www.mapillary.com/datasets) (containing many real-world street signs) and extract the relevant files and labels which were useful to our project (such as the U-turn and stop sign). Unfortunately, due to time constraints, unlabeled images and issues with training the dataset (slow locally, incorrect format for GPU cluster and many others), we were unable to reach this goal on time. However, we were able to implement the movement methods for the car object if it were to identify these signs,
 
 See `car.py` for these methods.
+
+#### Final Project Documentation
+
+* [Final Project Proposal](https://docs.google.com/presentation/d/1L6HpuwWUmZLbMku8TCtcsEmM94I_hfhxsWjQbXQdzuE/edit?usp=sharing)
+* [Final Project Update 3/7](https://docs.google.com/presentation/d/1BISDQ7yGsB8-tLKdeL1EcyHW_yMoLfHj2Dz4SmyfpQE/edit?usp=sharing)
+* [Final Project Update 3/14](https://docs.google.com/presentation/d/1zqu6FiV0MjfVvI7DA6E69afZh3yocjg3Kdn-TJ9l8VI/edit?usp=sharing)
+* [Final Project Presentation](https://docs.google.com/presentation/d/1aP5Ie4-TewuoKRB5DMtaJnovhVHyDWWn3jxtnVYqBNU/edit?usp=sharing)
 
 <!-- Early Quarter -->
 ## Early Quarter
@@ -113,7 +124,7 @@ Below is a youtube playlist of the car completing 3 autonomous laps using the Do
 * [VESC Object Drive Folder](https://drive.google.com/drive/folders/1SBzChXK2ebzPHgZBP_AIhVXJOekVc0r3)
 * [DonkeyCar Framework](https://docs.donkeycar.com/guide/host_pc/setup_windows/)
 
-*Special thanks to Professor Jack Silberman, and TAs Kishore Nukala and Moises Lopez (WI23)*
+*Special thanks to Professor Jack Silberman, and TAs Kishore Nukala and Moises Lopez (WI23), and to all our amazing classmates of Winter 2023*
 
 <!-- CONTACT -->
 ## Contact
