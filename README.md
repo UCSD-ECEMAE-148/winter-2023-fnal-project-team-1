@@ -98,6 +98,10 @@ Our team used only the electronic components given to us. In particular, we focu
     <img src="images\Circuit Diagram.png">
 </div>
 
+#### Autonomous Laps
+Below is a youtube playlist of the car completing 3 autonomous laps using the DonkeyCar framework under different conditions. 
+[<img src="images\playlist1.png">](https://www.youtube.com/watch?v=IvP6Bl-0CmE&list=PLhr_F_bR8N4bZ2Y7_KSgR6yGpgRoOXpH-)
+
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
