@@ -112,7 +112,7 @@ Our team used only the electronic components given to us. In particular, we focu
 ## Contact
 
 * Hariz Megat Zariman - hzariman@gmail.com | mqmegatz@ucsd.edu
-* Arjun Naageshwaran - 
+* Arjun Naageshwaran - arjnaagesh@gmail.com | anaagesh@ucsd.edu
 * Arturo Amaya - 
 
 <!-- MARKDOWN TEMPLATE INFORMATION -->
