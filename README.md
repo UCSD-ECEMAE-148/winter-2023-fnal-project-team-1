@@ -131,7 +131,7 @@ Below is a youtube playlist of the car completing 3 autonomous laps using the Do
 
 * Hariz Megat Zariman - hzariman@gmail.com | mqmegatz@ucsd.edu
 * Arjun Naageshwaran - arjnaagesh@gmail.com | anaagesh@ucsd.edu
-* Arturo Amaya - 
+* Arturo Amaya - a1amaya@ucsd.edu | aramaya@ucsd.edu
 
 <!-- MARKDOWN TEMPLATE INFORMATION -->
 <!-- MARKDOWN LINKS & IMAGES -->
